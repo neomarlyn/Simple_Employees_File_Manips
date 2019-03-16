@@ -1,0 +1,6 @@
+S Andre Roche 45000.0
+W John Doe 35.0
+E Jane Doe 75000.0
+W Barry Moore 25.0
+E Anthony Kleidis 100000.0
+S Nehemiah Obadiah 100000.0
